@@ -1,0 +1,3 @@
+[submodule "CheckoutChild"]
+	path = CheckoutChild
+	url = https://github.com/philippeqc/CheckoutChild.git
