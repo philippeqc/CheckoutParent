@@ -1,2 +1,5 @@
-# CheckoutParent
-Test project with LFS and submodule
+Creation
+```
+git init
+git lfs track "*.jpg"
+```
